@@ -1,4 +1,4 @@
-Abs-6.6-----
+bash reference manual
 ============
 
-Advanced Bash-Scripting Guide 6.6 翻译计划,工作闲暇时翻译,不止是为了学习,更为了不让自己迷失
+bash reference manual 翻译计划，本来准备翻译Advanced Bash-Scripting Guides的，但是看了一下书评不是很理想，所以还是直接翻译官方的文档。
